@@ -1,7 +1,7 @@
 # WP-HW2
 
 ### Exercise 1:
-Change the color of all <p> elements to "red".
+Change the color of all <pre><code><p></code></pre> elements to "red".
 <hr>
 ### Exercise 2:
 Change the color of the element with id="para1", to "red".
@@ -10,7 +10,7 @@ Change the color of the element with id="para1", to "red".
 Change the color of all elements with the class "colortext", to "red".
 <hr>
 ### Exercise 4:
-Change the color of all <p> and <h1> elements, to "red".
+Change the color of all <pre><code><p></code></pre> and <pre><code><h1></code></pre> elements, to "red".
 Group the selectors to minimize code.
 <hr>
 ### Exercise 5~7:
